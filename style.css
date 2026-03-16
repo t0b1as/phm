@@ -1,0 +1,10 @@
+input[type="range"] {
+  width:800px;
+}
+
+body {
+  font-family: Arial;
+  margin: 80px;
+  color: grey;
+}
+
